@@ -1,0 +1,5 @@
+name: DeathCoordinate
+version: 1.1.0
+api: [5.0.0]
+author: Ryuu
+main: Ryuu\Main
